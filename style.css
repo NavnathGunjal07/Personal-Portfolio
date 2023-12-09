@@ -320,7 +320,7 @@ body{
 }
 
 .skills .content .col-right .bar .php:before{
-  width: 75%;
+  width: 85%;
   background: #6d7eb8;
 }
 .skills .content .col-right .bar .python:before{
